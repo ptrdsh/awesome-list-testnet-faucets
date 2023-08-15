@@ -188,6 +188,10 @@ https://bank.betanet.algodev.network/
 
 https://testnets.cardano.org/en/testnets/cardano/tools/faucet/
 
+### Cardano Sanchonet (Voltaire testnet)
+
+https://faucet.sanchonet.world.dev.cardano.org/basic-faucet
+
 ## Near
 
 ### Near Testnet 
